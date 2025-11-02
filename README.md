@@ -29,25 +29,25 @@ This SQL-based EDA aimed to answer the following:
 - Customer purchases are almost evenly distributed by gender (Male: 50.5%, Female: 49.5%), indicating balanced market appeal.
 
 ### Revenue by Category
-![Revenue by Category](visuals/Revenue_by_Category.jpg)
+![Revenue by Category](visuals/Revenue_by_Category.JPG)
 
 ### Customer distribution by countries
-![Customers by countries](visuals/Customers_by_countries.jpg)
+![Customers by countries](visuals/Customers_by_countries.JPG)
 
 ### Customer distribution by gender
-![Customers by gender](visuals/Customers_by_genders.jpg)
+![Customers by gender](visuals/Customers_by_genders.JPG)
 
 ### Number of items sold by country
-![Sold items across countries](visuals/Sold_items_across_countries.jpg)
+![Sold items across countries](visuals/Sold_items_across_countries.JPG)
 
 ### Lowest selling products
-![Lowest selling products](visuals/Lowest_selling_products.jpg)
+![Lowest selling products](visuals/Lowest_selling_products.JPG)
 
 ### Best performing products
-![Best performing products](visuals/Best_performing_products.jpg)
+![Best performing products](visuals/Best_performing_products.JPG)
 
 ## Business Recommendations
-- The lowest-selling products are low-value accessories, but they are frequently needed items. Bundle them with bike purchases (for example: "Maintenance Kit Add-On") to encourage cross-selling and increase order value.
+- The lowest-selling products are low-value accessories, but they are frequently needed items. Bundle them with bike purchases (for example as: "Maintenance Kit Add-On") to encourage cross-selling and increase order value.
 - Develop a tailored go-to-market strategy for Europe and Australia (pricing, localized marketing, and product customization) to improve performance in these markets.
 - Prioritize inventory for best-selling products such as the Mountain-200 series to prevent stockouts and maximize sales.
 - 871 records in the revenue data and 337 in the customer table are tagged as "n/a" for country. This indicates incomplete data collection, which limits customer segmentation and targeted marketing. Improving data capture at the point of sale would provide stronger customer insights and support personalization.
