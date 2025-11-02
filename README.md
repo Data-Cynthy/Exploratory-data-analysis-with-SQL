@@ -29,7 +29,7 @@ This SQL-based EDA aimed to answer the following:
 - Customer purchases are almost evenly distributed by gender (Male: 50.5%, Female: 49.5%), indicating balanced market appeal.
 
 ### Revenue by Category
-![Revenue by Category](visuals/Revenue_by_Category.JPG)
+![Revenue by Category](visuals/Revenue_by_category.JPG)
 
 ### Customer distribution by countries
 ![Customers by countries](visuals/Customers_by_countries.JPG)
